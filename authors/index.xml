@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on 小恶魔的博客</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on 小恶魔的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020_周红梅_hugo主题</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 17:44:55 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>周红梅</title>
+      <link>/author/%E5%91%A8%E7%BA%A2%E6%A2%85/</link>
+      <pubDate>Sat, 25 Apr 2020 17:44:55 +0800</pubDate>
+      
+      <guid>/author/%E5%91%A8%E7%BA%A2%E6%A2%85/</guid>
+      <description>我叫周红梅，是曲靖师范学院信息工程学院的一名学生，即将在2020年7月毕业，我的毕业设计写的是关于hugo个人博客的搭建，该博客主题涉及了html、css、go、github等知识，需要细细揣摩，才能捂得其中的真谛！
+古语云:&amp;ldquo;活到老，学到老!&amp;rdquo;
+学习是永无止境的，生活亦是如此，我的博客分享的是一些日常生活中的经验，希望给需要之人提供一些帮助，使他们少走弯路！
+博文写的随意，不喜勿喷！</description>
+    </item>
+    
+  </channel>
+</rss>

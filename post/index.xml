@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 小恶魔的博客</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on 小恶魔的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020_周红梅_hugo主题</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 15:22:59 +0800</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github</title>
+      <link>/post/github/</link>
+      <pubDate>Sat, 25 Apr 2020 15:22:59 +0800</pubDate>
+      
+      <guid>/post/github/</guid>
+      <description>GitHub 是一个面向开源及私有软件项目的托管平台，因为只支持 Git 作为唯一的版本库格式进行托管，故名 GitHub。</description>
+    </item>
+    
+    <item>
+      <title>Hugo的安装教程</title>
+      <link>/post/hugo_install/</link>
+      <pubDate>Sat, 25 Apr 2020 15:07:08 +0800</pubDate>
+      
+      <guid>/post/hugo_install/</guid>
+      <description>Hugo是最受欢迎的开源静态站点生成器之一。凭借其惊人的速度和灵活性，Hugo再次使构建网站变得有趣。</description>
+    </item>
+    
+    <item>
+      <title>HTML教程- (HTML5 标准)</title>
+      <link>/post/html/</link>
+      <pubDate>Fri, 24 Apr 2020 21:25:14 +0800</pubDate>
+      
+      <guid>/post/html/</guid>
+      <description>超文本标记语言（英语：HyperText Markup Language，简称：HTML）是一种用于创建网页的标准标记语言。</description>
+    </item>
+    
+    <item>
+      <title>CSS 层叠样式表 (Cascading Style Sheets)</title>
+      <link>/post/css/</link>
+      <pubDate>Thu, 23 Apr 2020 21:03:36 +0800</pubDate>
+      
+      <guid>/post/css/</guid>
+      <description>层叠样式表 (Cascading Style Sheets，缩写为 CSS），是一种 样式表 语言，用来描述 HTML 或 XML（包括如 SVG、MathML、XHTML 之类的 XML 分支语言）文档的呈现。CSS 描述了在屏幕、纸质、音频等其它媒体上的元素应该如何被渲染的问题。</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/post/blog/</link>
+      <pubDate>Thu, 23 Apr 2020 13:17:08 +0800</pubDate>
+      
+      <guid>/post/blog/</guid>
+      <description>&lt;p&gt;博客，仅音译，英文名为Blogger，为Web Log的混成词。它的正式名称为网络日记；又音译为部落格或部落阁等，是使用特定的软件，在网络上出版、发表和张贴个人文章的人，或者是一种通常由个人管理、不定期张贴新的文章的网站。博客上的文章通常以网页形式出现，并根据张贴时间，以倒序排列。通常具备RSS订阅功能。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golang 模板(template)的常用基本语法</title>
+      <link>/post/go/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/go/</guid>
+      <description>Go是一种开放源代码编程语言，可轻松构建 简单，可靠且高效的软件。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github托管代码 on 小恶魔的博客</title>
+    <link>/category/github%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81/</link>
+    <description>Recent content in github托管代码 on 小恶魔的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020_周红梅_hugo主题</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 15:22:59 +0800</lastBuildDate>
+    
+	<atom:link href="/category/github%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Github</title>
+      <link>/post/github/</link>
+      <pubDate>Sat, 25 Apr 2020 15:22:59 +0800</pubDate>
+      
+      <guid>/post/github/</guid>
+      <description>GitHub 是一个面向开源及私有软件项目的托管平台，因为只支持 Git 作为唯一的版本库格式进行托管，故名 GitHub。</description>
+    </item>
+    
+  </channel>
+</rss>

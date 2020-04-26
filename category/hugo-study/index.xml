@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo study on 小恶魔的博客</title>
+    <link>/category/hugo-study/</link>
+    <description>Recent content in hugo study on 小恶魔的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020_周红梅_hugo主题</copyright>
+    <lastBuildDate>Thu, 23 Apr 2020 19:38:10 +0800</lastBuildDate>
+    
+	<atom:link href="/category/hugo-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo学习笔记</title>
+      <link>/learn/hugo_study_note/</link>
+      <pubDate>Thu, 23 Apr 2020 19:38:10 +0800</pubDate>
+      
+      <guid>/learn/hugo_study_note/</guid>
+      <description>HUGO安装 寻找适合自身系统的版本下载，将下载的压缩包解压，该软件仅有一个hugo.exe，其余两个为README说明文件和LICENSE许可证。以我的安装位置为例：
+在C盘中建立一个Hugo文件夹，并在其下建bin和Sites两个文件夹
+将压缩包里的hugo.exe放入刚建的C:\Hugo\bin中 将C:\Hugo\bin添加入系统的路径当中。
+windows7中添加路径还是有点小麻烦，建议用以下工具
+Windows Environment Variables Editor(http://eveditor.com/)
+Rapid Environment Editor(https://www.rapidee.com/en/about)
+Hugo的使用依赖git系统，在使用hugo前请安装git并建立github账户。
+HUGO命令 Hugo命令的风格跟git非常像，基本格式是
+hugo [command] [flag] 生成public文件夹 hugo 开启本地服务器 hugo server 此时shell命令行变为不可输入新命令状态，按Ctrl+C结束本地服务器
+打开服务器状态之后可以在浏览器中输入localhost:1313预览生成的网站效果
+主题关注 主题请关注hugo官网上发布的theme一栏，看了几个大部分是GO语言做的，每一个主题都有相应的使用指导，当然hugo的一些使用技巧还是要看hugo网站提供的doc说明。
+Hugo主题
+以其中一个叫做Hugo Future Imperfect主题为例https://themes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>civil_service_examination on 小恶魔的博客</title>
+    <link>/category/civil_service_examination/</link>
+    <description>Recent content in civil_service_examination on 小恶魔的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020_周红梅_hugo主题</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 17:44:55 +0800</lastBuildDate>
+    
+	<atom:link href="/category/civil_service_examination/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>公务员考试行测常识</title>
+      <link>/learn/civil_service_examination/</link>
+      <pubDate>Sat, 25 Apr 2020 17:44:55 +0800</pubDate>
+      
+      <guid>/learn/civil_service_examination/</guid>
+      <description>史上最全公务员考试行测常识文学笔记</description>
+    </item>
+    
+  </channel>
+</rss>

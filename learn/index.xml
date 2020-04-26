@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learn on 小恶魔的博客</title>
+    <link>/learn/</link>
+    <description>Recent content in learn on 小恶魔的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020_周红梅_hugo主题</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 17:44:55 +0800</lastBuildDate>
+    
+	<atom:link href="/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>公务员考试行测常识</title>
+      <link>/learn/civil_service_examination/</link>
+      <pubDate>Sat, 25 Apr 2020 17:44:55 +0800</pubDate>
+      
+      <guid>/learn/civil_service_examination/</guid>
+      <description>史上最全公务员考试行测常识文学笔记</description>
+    </item>
+    
+    <item>
+      <title>Hugo学习笔记</title>
+      <link>/learn/hugo_study_note/</link>
+      <pubDate>Thu, 23 Apr 2020 19:38:10 +0800</pubDate>
+      
+      <guid>/learn/hugo_study_note/</guid>
+      <description>HUGO安装 寻找适合自身系统的版本下载，将下载的压缩包解压，该软件仅有一个hugo.exe，其余两个为README说明文件和LICENSE许可证。以我的安装位置为例：
+在C盘中建立一个Hugo文件夹，并在其下建bin和Sites两个文件夹
+将压缩包里的hugo.exe放入刚建的C:\Hugo\bin中 将C:\Hugo\bin添加入系统的路径当中。
+windows7中添加路径还是有点小麻烦，建议用以下工具
+Windows Environment Variables Editor(http://eveditor.com/)
+Rapid Environment Editor(https://www.rapidee.com/en/about)
+Hugo的使用依赖git系统，在使用hugo前请安装git并建立github账户。
+HUGO命令 Hugo命令的风格跟git非常像，基本格式是
+hugo [command] [flag] 生成public文件夹 hugo 开启本地服务器 hugo server 此时shell命令行变为不可输入新命令状态，按Ctrl+C结束本地服务器
+打开服务器状态之后可以在浏览器中输入localhost:1313预览生成的网站效果
+主题关注 主题请关注hugo官网上发布的theme一栏，看了几个大部分是GO语言做的，每一个主题都有相应的使用指导，当然hugo的一些使用技巧还是要看hugo网站提供的doc说明。
+Hugo主题
+以其中一个叫做Hugo Future Imperfect主题为例https://themes.</description>
+    </item>
+    
+    <item>
+      <title>英语中的十大词类—名词</title>
+      <link>/learn/english/</link>
+      <pubDate>Thu, 23 Apr 2020 17:01:10 +0800</pubDate>
+      
+      <guid>/learn/english/</guid>
+      <description>英语中的十大词类—名词 名词的含义 名词（noun）是指人或事物的名称。
+例如：
+ 面包（bread）
+获得感（sense of gain）
+屌丝(loser)
+真人秀(reality show)等
+名词分类 1.名词按其性质和意义分，可以分为专有名词和普通名词。 专有名词 专有名词表示具体的人，事物，地点，团体或机构的专有名称(第一个字母要大写)。
+例如：
+ China(中国)、Asia(亚洲)、Beijing(北京)、the People’s Republic Of China(中华人民共和国)。
+专有名词如果是含有名词短语，则必须使用定冠词the。
+例如：
+ the Great Wall(长城)。
+姓氏名如果采用复数的形式，则表示该姓氏一家人(复数含义)。</description>
+    </item>
+    
+  </channel>
+</rss>

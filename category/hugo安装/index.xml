@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo安装 on 小恶魔的博客</title>
+    <link>/category/hugo%E5%AE%89%E8%A3%85/</link>
+    <description>Recent content in hugo安装 on 小恶魔的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020_周红梅_hugo主题</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 15:07:08 +0800</lastBuildDate>
+    
+	<atom:link href="/category/hugo%E5%AE%89%E8%A3%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo的安装教程</title>
+      <link>/post/hugo_install/</link>
+      <pubDate>Sat, 25 Apr 2020 15:07:08 +0800</pubDate>
+      
+      <guid>/post/hugo_install/</guid>
+      <description>Hugo是最受欢迎的开源静态站点生成器之一。凭借其惊人的速度和灵活性，Hugo再次使构建网站变得有趣。</description>
+    </item>
+    
+  </channel>
+</rss>

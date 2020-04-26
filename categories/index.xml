@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 小恶魔的博客</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on 小恶魔的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2020_周红梅_hugo主题</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 17:44:55 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>civil_service_examination</title>
+      <link>/category/civil_service_examination/</link>
+      <pubDate>Sat, 25 Apr 2020 17:44:55 +0800</pubDate>
+      
+      <guid>/category/civil_service_examination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github托管代码</title>
+      <link>/category/github%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81/</link>
+      <pubDate>Sat, 25 Apr 2020 15:22:59 +0800</pubDate>
+      
+      <guid>/category/github%E6%89%98%E7%AE%A1%E4%BB%A3%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo安装</title>
+      <link>/category/hugo%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Sat, 25 Apr 2020 15:07:08 +0800</pubDate>
+      
+      <guid>/category/hugo%E5%AE%89%E8%A3%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo study</title>
+      <link>/category/hugo-study/</link>
+      <pubDate>Thu, 23 Apr 2020 19:38:10 +0800</pubDate>
+      
+      <guid>/category/hugo-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>英语——名词</title>
+      <link>/category/%E8%8B%B1%E8%AF%AD%E5%90%8D%E8%AF%8D/</link>
+      <pubDate>Thu, 23 Apr 2020 17:01:10 +0800</pubDate>
+      
+      <guid>/category/%E8%8B%B1%E8%AF%AD%E5%90%8D%E8%AF%8D/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
